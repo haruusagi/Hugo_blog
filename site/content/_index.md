@@ -8,9 +8,7 @@ blurb:
 intro:
   heading: hoge
   text: hogegegge
-products:
-  - image: /img/p8035.png
-    text: dsださs
+products: []
 values:
   heading: ege
   text: gegegee
