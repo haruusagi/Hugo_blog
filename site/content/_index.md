@@ -1,14 +1,16 @@
 ---
 title: うつ病患者向けサービス
 subtitle: 暗闇に希望な光を
-image: /img/p8035.png
+image: /img/01_7j9a3047_txt.jpg
 blurb:
   heading: hoge
   text: hoge
 intro:
   heading: hoge
   text: hogegegge
-products: []
+products:
+  - image: /img/p8035.png
+    text: dsださs
 values:
   heading: ege
   text: gegegee
