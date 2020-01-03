@@ -22,8 +22,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "mental-servive"
-    subtitle = "うつ病患者向けサービス"
+    title = "真面目に不真面目うさぎ"
+    subtitle = "名古屋在住エンジニアの戯言"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
