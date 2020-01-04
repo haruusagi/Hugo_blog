@@ -5,7 +5,7 @@ paginate = 5
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "post"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "pink"
   # if you se/ this to 0, only submenu trigger will be visible
@@ -39,18 +39,6 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "blog"
-        url = "/blog"
-      [[languages.en.menu.main]]
-        identifier = "products"
-        name = "products"
-        url = "/products"
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "contact"
-        url = "/contact"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
